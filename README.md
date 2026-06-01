@@ -1,1 +1,2 @@
 # Anarchy
+Obsidian theme 
